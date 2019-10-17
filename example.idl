@@ -1,0 +1,6 @@
+struct myStruct{
+	long gal;
+	short elad;
+	string<20> name;
+	sequence<double,20> deoubleSec;
+};

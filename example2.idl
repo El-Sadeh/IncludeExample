@@ -1,0 +1,4 @@
+#include "example.idl"
+ struct exampleStruct{
+	myStruct structMember; 
+ };
